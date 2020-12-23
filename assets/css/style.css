@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: cabin, sans-serif;
+}
+
+h1, h2, h4{
+  font-weight: 600;
+}
+
+.logo{
+  font-family: lobster, cursive;
+  font-size: 200%;
+}
+
+.seccion_newsletter span {
+  font-family: lobster, cursive;
+}
+
+.carousel-indicators{
+  top: 105%
+}
+
+.carousel-indicators li{
+  border-radius: 50%;
+  background-color: #707070;
+  width: 11px;
+  height: 11px;
+}
+
+.sin-estilo li{
+  list-style: none;
+}
